@@ -25,6 +25,7 @@ export default [
           'source',
           'variable',
           'packer',
+          'data',
         ],
       },
       {
@@ -160,6 +161,7 @@ export default [
       'locals',
       'contextual-variables',
       'path-variables',
+      'datasources',
       'syntax',
       'onlyexcept',
       'expressions',
